@@ -113,7 +113,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </ul>
 			 <br />
 			 <ul>
-			 <li> [<font color='#900'><b>SIGMOD'18</b></font>] <font size="3">MGJoin: Optimizing Distributed Multi-way Joins for Graphs</font>
+			 <li> [<font color='#900'><b>SIGMOD'18</b></font>] <font size="3">DARQ: Dynamically Adaptive Recursive Queries for Large-scale Graph Processing</font>
  			 <br> Under Review.
 			 <br> Qizhen Zhang, Akash Acharya, Hongzhi Chen, <b>Yucheng Lu</b>, Ang Chen, Vincent Liu, Boon Thau Loo</li>
 			 </ul>
@@ -128,10 +128,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				 <p class="cmpny1" style="text-align:justify">In this paper, we propose to facilitate extensibility by making the ‘shuffle’ operation the narrow waist of the big data analytics stack. The resulting system, Suffice, has a simple and general interface that: (1) can be used by many big data systems with minimal changes to those systems, and (2) is compatible with a range of different network configurations. In addition to serving as a narrow waist, Suffice is also extensible with custom annotations, which we leverage to implement shuffle optimizations such as deduplication and combination of values at both the machine and rack level.</p>
 			 </div>
 			 <div class="company_details">
-				 <h4>MGJoin: Optimizing Distributed Multi-way Joins for Graphs<span>Aug 2017</span></h4>
+				 <h4>DARQ: Dynamically Adaptive Recursive Queries for Large-scale Graph Processing<span>Aug 2017</span></h4>
 				 <h6>Research Assistant@Distributed System Laboratory, University of Pennsylvania</h6>
 				 <img src="images/join.jpg" height="200"/>
-				 <p class="cmpny1" style="text-align:justify">We propose MGJoin to optimize multi-way joins for graphs on top of a distributed tuple-level execution engine. The distributed engine generates new tuples by individually sending around existing tuples for local joins, which enables the tuple-level optimizations. Based on this engine, we design two algorithms to adaptively determine join orders in runtime for multi-way joins: dynamic ordering and cost-based ordering.</p>
+				 <p class="cmpny1" style="text-align:justify">This paper presents DARQ, a runtime query optimization engine for distributed recursive queries geared towards efficient processing over large-scale graphs. DARQ is motivated by recursive queries that are executed over low-level graph engines, e.g., vertex-centric systems. DARQ allows per-tuple adaptive join reordering, where for every tuple generated during the processing, an optimized join order for the next iteration is determined by selecting operators that likely minimize both communication and computation costs. To that end, it adopts two cost-based optimizations for multi-way join evaluation at runtime: adaptive join ordering (AJO) and duplicateaware ordering (DAO).We prove that in certain cases, AJO promises the optimal order for multi-way joins and DAO improves the performance of AJO for other cases. The evaluations with both synthetic and real-world graphs verify that the designs of tuple-level execution and runtime join ordering are very effective. The results show that DARQ has both good up and out scalability for different types of graph queries, and on average, runtime join ordering contributes more than 2× performance speedup on real-world datasets compared to static order and is orders of magnitude faster in some cases. In some cases, DARQ can outperform state-of-the-art systems by as much as three orders of magnitude.</p>
 			 </div>
 			 <div class="company_details">
 				 <h4>OLGA: An Optimization Library for Graph Analytics<span>Jul 2017</span></h4>

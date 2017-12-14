@@ -23,6 +23,7 @@ body a{
 body {
   padding-top:0px;
 }
+a{color: blue;} 
 a:focus {
   outline: thin dotted;
   outline: 0px auto -webkit-focus-ring-color;

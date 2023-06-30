@@ -1,0 +1,70 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications and Manuscripts
+
+== Preprints
+
+*CD-GraB: Coordinating Distributed Example Orders for Provably Accelerated Training*\n
+[https://cacioepe.pe/ A. Feder Cooper]\*, Wentao Guo\*, Khiem Pham\*, Tiancheng Yuan, Charlie Ruan, Yucheng Lu, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
+\[[https://arxiv.org/abs/2302.00845 Arxiv]\]
+
+== Publications
+
+(* denotes equal contribution)
+
+*CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks*\n
+[https://juewang.me/about/index.html Jue Wang]\*, Yucheng Lu\*, [https://binhangyuan.github.io/site/ Binhang Yuan], [https://www.andrew.cmu.edu/user/beidic/ Beidi Chen], [https://cs.stanford.edu/~pliang/ Percy Liang], [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa], [https://cs.stanford.edu/~chrismre/ Christopher Re], [https://zhangce.github.io/ Ce Zhang]\n
+/ In the Fortieth International Conference on Machine Learning (ICML) 2023. / \n
+To Appear
+
+*STEP: Learning N:M Structured Sparsity Masks from Scratch with Precondition*\n
+Yucheng Lu, Shivani Agrawal, [http://people.csail.mit.edu/suvinay/ Suvinay Subramanian], Oleg Rybakov, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa], [https://www.ayazdan.com/ Amir Yazdanbakhsh]\n
+/ In the Fortieth International Conference on Machine Learning (ICML) 2023. / \n
+To Appear
+
+*Maximizing Communication Efficiency for Large-scale Training via 0\/1 Adam*\n
+Yucheng Lu, [https://conglongli.github.io/ Conglong Li], [http://zhangminjia.me/ Minjia Zhang], [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa], 
+[https://www.microsoft.com/en-us/research/people/yuxhe/ Yuxiong He]\n
+/ In the Eleventh International Conference on Learning Representations (ICLR) 2023. / \n
+\[[https://arxiv.org/abs/2202.06009 Arxiv]\]\[[https://www.deepspeed.ai/tutorials/zero-one-adam/ Tutorial]\]\[[https://github.com/microsoft/DeepSpeed Code]\]
+
+*GraB: Finding Provably Better Data Permutations than Random Reshuffling*\n
+Yucheng Lu, Wentao Guo, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
+/ In the Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022. / \n
+\[[https://openreview.net/pdf?id=nDemfqKHTpK Proceedings]\]\[[https://arxiv.org/abs/2205.10733 Arxiv]\]\[[https://github.com/EugeneLYC/GraB Code]\]
+
+*A General Analysis of Example-Selection for Stochastic Gradient Descent*\n
+Yucheng Lu\*, [https://www.cs.cornell.edu/~siyimeng/ Si Yi Meng]\*, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
+/ In the Tenth International Conference on Learning Representations (ICLR) 2022. / \n
+\[[https://openreview.net/pdf?id=7gWSJrP3opB Proceedings]\]\[[https://github.com/EugeneLYC/qmc-ordering Code]\]  {{<strong style="color: red;">Spotlight (5%)</strong>}}
+
+*Hyperparameter Optimization is Deceiving Us, and How to Stop It*\n
+[https://cacioepe.pe/ A. Feder Cooper], Yucheng Lu, [https://jzf2101.github.io/ Jessica Zosa Forde], [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
+/ In the Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS) 2021. / \n
+\[[https://proceedings.neurips.cc/paper/2021/hash/17fafe5f6ce2f1904eb09d2e80a4cbf6-Abstract.html Proceedings]\]\[[https://arxiv.org/abs/2102.03034 Arxiv]\]\[[https://github.com/pasta41/deception Code]\]
+
+*Variance Reduced Training with Stratified Sampling for Forecasting Models*\n
+Yucheng Lu, [https://youngsuk0723.github.io/ Youngsuk Park], Lifan Chen, [http://www.mit.edu/~ywang02/ Yuyang Wang], [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa], [http://deanfoster.net/ Dean Foster]\n
+/ In the Thirty-eighth International Conference on Machine Learning (ICML) 2021. / \n
+\[[http://proceedings.mlr.press/v139/lu21d.html Proceedings]\]\[[https://arxiv.org/abs/2103.02062 Arxiv]\]\[[https://github.com/awslabs/gluon-ts/tree/master/src/gluonts/nursery Code]\]
+
+*Optimal Complexity in Decentralized Training*\n
+Yucheng Lu, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
+/ In the Thirty-eighth International Conference on Machine Learning (ICML) 2021. / \n
+Longer version available in / the Journal of Machine Learning Research (JMLR) /. \n
+\[[http://proceedings.mlr.press/v139/lu21a.html Proceedings]\]\[[https://arxiv.org/abs/2006.08085 Arxiv]\]\[[https://www.jmlr.org/papers/volume24/22-0044/22-0044.pdf JMLR]\]\[[./files/DeTAG_errata.pdf Errata]\]\[[https://www.leiphone.com/category/academic/ttPXXZRVE2IgyJfj.html Media Coverage (Chinese)]\]{{<strong style="color: red;"> Outstanding Paper Award Honorable Mention</strong>}} \n
+
+*MixML: A Unified Analysis of Weakly Consistent Parallel Learning*\n
+Yucheng Lu, Jack Nash, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
+/ Unpublished Manuscript / \n
+\[[https://arxiv.org/abs/2005.06706 Arxiv]\]
+
+*Adaptive Diffusion of Sensitive Information In Online Social Networks*\n
+Xudong Wu, [http://www.cs.sjtu.edu.cn/~fu-ly/index.html Luoyi Fu], [http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=269 Huan Long], Dali Yang, Yucheng Lu, [http://www.cs.sjtu.edu.cn/~wang-xb/ Xinbing Wang], [http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=180 Guihai Chen]\n
+/ In IEEE Transactions on Knowledge and Data Engineering (TKDE) 2020. / \n
+\[[https://ieeexplore.ieee.org/abstract/document/8950034 Paper]\]
+
+*Moniqua: Modulo Quantized Communication in Decentralized SGD*\n
+Yucheng Lu, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
+/ In the Thirty-seventh International Conference on Machine Learning (ICML) 2020. / \n
+\[[http://proceedings.mlr.press/v119/lu20a.html Proceedings]\]\[[https://arxiv.org/abs/2002.11787 Arxiv]\]
+

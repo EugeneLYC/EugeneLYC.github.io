@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}
 
 == Short Bio
-Yucheng Lu obtained his Ph.D. degree at [https://www.cs.cornell.edu/ Cornell Computer Science],
+Yucheng Lu is an AI Engineer at [https://together.ai/ Together]. He obtained his Ph.D. degree at [https://www.cs.cornell.edu/ Cornell Computer Science],
 where he was advised by [https://www.cs.cornell.edu/~cdesa/ Prof. Chris De Sa]. 
 Yucheng is broadly interested in building scalable, provably efficient and ubiquitous deep learning systems.
 His projects have touched on model compression, communication compression, decentralized/distributed ML, sample ordering, etc.

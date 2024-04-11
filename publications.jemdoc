@@ -1,25 +1,22 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications and Manuscripts
 
-== Preprints
-
-*CD-GraB: Coordinating Distributed Example Orders for Provably Accelerated Training*\n
-[https://cacioepe.pe/ A. Feder Cooper]\*, Wentao Guo\*, Khiem Pham\*, Tiancheng Yuan, Charlie Ruan, Yucheng Lu, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
-\[[https://arxiv.org/abs/2302.00845 Arxiv]\]
-
-== Publications
-
 (* denotes equal contribution)
+
+*Coordinating Distributed Example Orders for Provably Accelerated Training*\n
+[https://cacioepe.pe/ A. Feder Cooper]\*, Wentao Guo\*, Khiem Pham\*, Tiancheng Yuan, Charlie Ruan, Yucheng Lu, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
+/ In Proceedings of the 36th Neural Information Processing Systems Conference (NeurIPS) 2023. / \n
+\[[https://openreview.net/forum?id=ISRyILhAyS Proceedings]\]\[[https://arxiv.org/abs/2302.00845 Arxiv]\]
 
 *CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks*\n
 [https://juewang.me/about/index.html Jue Wang]\*, Yucheng Lu\*, [https://binhangyuan.github.io/site/ Binhang Yuan], [https://www.andrew.cmu.edu/user/beidic/ Beidi Chen], [https://cs.stanford.edu/~pliang/ Percy Liang], [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa], [https://cs.stanford.edu/~chrismre/ Christopher Re], [https://zhangce.github.io/ Ce Zhang]\n
 / In the Fortieth International Conference on Machine Learning (ICML) 2023. / \n
-To Appear
+\[[https://openreview.net/pdf?id=w2Vrl0zlzA Proceedings]\]
 
 *STEP: Learning N:M Structured Sparsity Masks from Scratch with Precondition*\n
 Yucheng Lu, Shivani Agrawal, [http://people.csail.mit.edu/suvinay/ Suvinay Subramanian], Oleg Rybakov, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa], [https://www.ayazdan.com/ Amir Yazdanbakhsh]\n
 / In the Fortieth International Conference on Machine Learning (ICML) 2023. / \n
-To Appear
+\[[https://proceedings.mlr.press/v202/lu23c/lu23c.pdfB Proceedings]\]\[[https://arxiv.org/abs/2302.01172 Arxiv]\]
 
 *Maximizing Communication Efficiency for Large-scale Training via 0\/1 Adam*\n
 Yucheng Lu, [https://conglongli.github.io/ Conglong Li], [http://zhangminjia.me/ Minjia Zhang], [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa], 
@@ -49,9 +46,9 @@ Yucheng Lu, [https://youngsuk0723.github.io/ Youngsuk Park], Lifan Chen, [http:/
 
 *Optimal Complexity in Decentralized Training*\n
 Yucheng Lu, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n
-/ In the Thirty-eighth International Conference on Machine Learning (ICML) 2021. / \n
+/ In the Thirty-eighth International Conference on Machine Learning (ICML) 2021. / {{<strong style="color: red;"> Outstanding Paper Award Honorable Mention</strong>}} \n
 Longer version available in / the Journal of Machine Learning Research (JMLR) /. \n
-\[[http://proceedings.mlr.press/v139/lu21a.html Proceedings]\]\[[https://arxiv.org/abs/2006.08085 Arxiv]\]\[[https://www.jmlr.org/papers/volume24/22-0044/22-0044.pdf JMLR]\]\[[./files/DeTAG_errata.pdf Errata]\]\[[https://www.leiphone.com/category/academic/ttPXXZRVE2IgyJfj.html Media Coverage (Chinese)]\]{{<strong style="color: red;"> Outstanding Paper Award Honorable Mention</strong>}} \n
+\[[http://proceedings.mlr.press/v139/lu21a.html Proceedings]\]\[[https://arxiv.org/abs/2006.08085 Arxiv]\]\[[https://www.jmlr.org/papers/volume24/22-0044/22-0044.pdf JMLR]\]\[[./files/DeTAG_errata.pdf Errata]\]\[[https://www.leiphone.com/category/academic/ttPXXZRVE2IgyJfj.html Media Coverage (Chinese)]\] \n
 
 *MixML: A Unified Analysis of Weakly Consistent Parallel Learning*\n
 Yucheng Lu, Jack Nash, [http://www.cs.cornell.edu/~cdesa/ Christopher De Sa]\n

@@ -1,43 +1,12 @@
 # jemdoc: menu{MENU}{index.html}
 
 == Short Bio
-Yucheng Lu is an AI Researcher at [https://together.ai/ Together AI]. He obtained his Ph.D. degree at [https://www.cs.cornell.edu/ Cornell Computer Science],
-where he was advised by [https://www.cs.cornell.edu/~cdesa/ Prof. Chris De Sa]. 
-Yucheng is broadly interested in building scalable, provably efficient and ubiquitous deep learning systems.
-His projects have touched on model compression, communication compression, decentralized/distributed ML, sample ordering, etc.
+Yucheng Lu is an AI Researcher at [https://together.ai/ Together AI].
+He obtained his Ph.D. degree at [https://www.cs.cornell.edu/ Cornell Computer Science],
+advised by [https://www.cs.cornell.edu/~cdesa/ Prof. Chris De Sa]. 
 
-Yucheng's research has been recognized by [https://icml.cc/virtual/2021/awards_detail ICML Outstanding Paper Award (Honorable Mention)]
-and [https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/ Meta PhD Fellowship].
-He has also worked/interned at [https://www.microsoft.com/en-us/research/project/deepspeed/ Microsoft DeepSpeed], 
-[https://research.google/ Google Cerebra]
-and [https://aws.amazon.com/forecast/ Amazon Forecast].
+At Together AI, Yucheng works on LLM inference engine optimization, helping Together AI build
+[https://www.together.ai/blog/together-inference-engine-v1 fastest inference service] in the world.
 
 Yucheng obtained his BEng degree in [http://english.seiee.sjtu.edu.cn/ Electronic Engineering] from [http://en.sjtu.edu.cn/ Shanghai Jiao Tong University]. 
 
-== Updates
-
-\[Apr'23\] [CocktailSGD] is accepted by ICML'23, we evaluate empirically the effect of communication compression on distributed LLM finetuning!
-
-\[Apr'23\] [https://arxiv.org/abs/2302.01172 STEP] is accepted by ICML'23, we propose an Adam-aware recipe for learning N:M strucutred sparsity masks on LLMs!
-
-\[Jan'23\] [https://arxiv.org/abs/2202.06009 0/1 Adam] is accepted by ICLR'23, we propose an Adam variant to accelerate LLM pretraining in distributed systems!
-
-\[Oct'22\] NeurIPS'22 Scholar Award, thanks!
-
-\[Sep'22\] [https://arxiv.org/abs/2205.10733 GraB] is accepted by NeurIPS'22, we propose algorithms to construct provably better data permutations than random reshuffling!
-
-\[Feb'22\] Won [https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/ Meta PhD Fellowship 2022], thanks Meta!
-
-\[Jan'22\] [https://openreview.net/pdf?id=7gWSJrP3opB QMC-Example-Selection] is accepted by ICLR'22 as spotlight (5\%), we analyzed the complexity for example selection and proposed two related algorithms!
-
-\[Oct'21\] [https://nips.cc/Conferences/2021/ProgramCommittee Outstanding Reviewer Award] (8\%) at NeurIPS'21!
-
-\[Sep'21\] [https://arxiv.org/abs/2102.03034 HyperDeception] is accepted by NeurIPS'21, we studied justifiable hyperparameter optimization via modal logic!
-
-\[Jul'21\] [http://proceedings.mlr.press/v139/lu21a.html DeTAG] won [https://icml.cc/virtual/2021/awards_detail Outstanding Paper Award Honorable Mention] at ICML'21  (5 out of 5513 submissions)!
-
-\[May'21\] [http://proceedings.mlr.press/v139/lu21a.html DeTAG] is accepted by ICML'21 as Long Oral (3\%), we discussed the theoretical limits of decentralized training, and how to achieve it!
-
-\[May'21\] [http://proceedings.mlr.press/v139/lu21d.html SCott] is accepted by ICML'21, we discussed how to use stratification in training forecasting models!
-
-\[May'20\] [http://proceedings.mlr.press/v119/lu20a.html Moniqua] is accepted by ICML'20, we discussed how to compress communication in learning systems without additional memory!

@@ -1,12 +1,22 @@
 # jemdoc: menu{MENU}{index.html}
 
 == Short Bio
-Yucheng Lu is an AI Researcher at [https://together.ai/ Together AI].
-He obtained his Ph.D. degree at [https://www.cs.cornell.edu/ Cornell Computer Science],
-advised by [https://www.cs.cornell.edu/~cdesa/ Prof. Chris De Sa]. 
+I am an incoming Assistant Professor of [https://cs.shanghai.nyu.edu/ Computer Science at NYU Shanghai] (starting Fall 2025), where I will lead the [lab.html HeavyBall Research] group.
 
-At Together AI, Yucheng works on LLM inference engine optimization, helping Together AI build
-[https://www.together.ai/blog/together-inference-engine-v1 fastest inference service] in the world.
+Currently, I am a Researcher at Together AI, contributing to the development of inference engines and GPU kernels for large language and vision-language model serving. 
+Previously, I have worked and interned at Google, Microsoft, and Amazon. 
+I earned my Ph.D. in [https://www.cs.cornell.edu/ Computer Science from Cornell University] in 2023, advised by [https://www.cs.cornell.edu/~cdesa/ Chris De Sa].
 
-Yucheng obtained his BEng degree in [http://english.seiee.sjtu.edu.cn/ Electronic Engineering] from [http://en.sjtu.edu.cn/ Shanghai Jiao Tong University]. 
+{{<strong style="color: red;"> I am currently looking for Ph.D. students, Research Assistants, and Interns to join my group!</strong>}} If you are interested in any of the following areas, please feel free to reach out with your CV:
 
+- Efficient training and inference algorithms for foundation models.
+- Hardware/software co-design for efficient modeling.
+- High-performance GPU kernels for modern AI workloads.
+- Large-scale AI application systems (e.g., Agent frameworks, RAG systems).
+
+If you are interested in working with me, [lab.html this Q&A] might be helpful.
+
+== Honors and Awards
+
+- [https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/ Meta Ph.D. Fellowship], class of 2022.
+- [https://icml.cc/virtual/2021/awards_detail ICML Outstanding Paper Award Honorable Mention], 2021.

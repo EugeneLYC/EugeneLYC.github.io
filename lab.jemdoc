@@ -1,0 +1,65 @@
+# jemdoc: menu{MENU}{lab.html}
+= HeavyBall Research
+
+HeavyBall Research is a newly established research group in [https://shanghai.nyu.edu/ Computer Science at NYU Shanghai], launching in Fall 2025,
+led by [index.html Yucheng Lu].
+
+Our mission is to advance the frontier of AI and machine learning systems. We work on a range of projects such as:
+
+- Efficient training and inference algorithms for foundation models.
+- Hardware/software co-design for efficient modeling.
+- High-performance GPU kernels for modern AI workloads.
+- Large-scale AI application systems (e.g., Agent frameworks, RAG systems).
+
+We collaborate closely with industry partners and other research labs to build cutting-edge AI systems, and are well-supported with abundant compute resources and research funding.
+We warmly welcome passionate researchers who are excited about the intersection of systems and AI to join us!
+
+== Recruiting Q&A (Ph.D. Students)
+
+Please [https://shanghai.nyu.edu/page/computer-science-PhD-program read this] for general information about NYU Shanghai CS Ph.D. Program.\n
+
+- *What is the difference between Ph.D. students in NYU New York and NYU Shanghai?* \n
+There is no difference. All Ph.D. students at NYU Shanghai earn an NYU degree upon graduation and have full access to all NYU resources.
+Admitted students spend their first year at the New York campus and then continue their studies at NYU Shanghai.
+I'm also happy to advise students remotely or co-advise with a faculty member in New York if they prefer to remain on the NY campus.
+For non-U.S. citizen students, the degree confers eligibility for F-1 OPT after graduation, allowing them to work in the United States.
+
+- *Are Ph.D. students fully financially supported?* \n
+Yes. All Ph.D. students receive competitive financial support through the NYU Shanghai Doctoral Fellowship, which covers full tuition, fees, and provides an annual stipend.
+Additional benefits exclusive to the NYU Shanghai program include international health insurance, housing assistance during the year in New York, and research travel funding.
+More details can be found [https://shanghai.nyu.edu/page/computer-science-PhD-program here]!
+
+
+== Recruiting Q&A (Research Assistants, Interns, Visiting Scholars)
+
+- *How do I apply?* \n
+To apply, please [lu.yucheng@nyu.edu email me] directly with your latest CV and a brief description of your research interests.
+
+- *Do I have to be NYU students?* \n
+No. We welcome top talent regardless of your institution or background.
+
+- *What are the requirements for these positions?* \n
+Candidates should have a solid understanding of deep learning models, especially Transformer-based architectures, and be proficient in PyTorch.
+Familiarity with GPU kernel development and Linux fundamentals is also expected.
+Strong coding skills and a solid foundation in mathematics are highly preferred.
+
+- *When can I start and how long can I stay?* \n
+The start date is flexible. I encourage candidates to commit at least one year to gain meaningful research experience.
+
+- *Is the position remote-friendly?* \n
+Yes. I'm open to discussing partial remote arrangements, but highly recommend visiting the campus if possible.
+
+- *What are the benefits and stipend like?* \n
+We offer very competitive stipends for these positions. I'm happy to discuss details individually.
+
+== Mentored Students
+I've had the privilege of working with a group of talented students during my time at Cornell CS:
+
+- Wentao Guo (Cornell M.Eng, now Ph.D. student at Princeton University)
+- Charlie Ruan (Cornell Undergrad, now Ph.D. student at UC Berkeley)
+- Khiem Pham (Cornell Ph.D. student)
+- Tiancheng Yuan (Cornell Undergrad, now Ph.D. student at Cornell University)
+- Gary Wei (Cornell M.Eng, now MLE at Bytedance)
+- Edward Gu (Cornell Undergrad)
+- Jack Nash (Cornell Undergrad)
+

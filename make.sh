@@ -1,2 +1,3 @@
-sudo jemdoc -c pub.conf publications.jemdoc
-sudo jemdoc -c mysite.conf index.jemdoc
+python jemdoc.py -c configs/pub.conf publications.jemdoc
+python jemdoc.py -c configs/mysite.conf index.jemdoc
+python jemdoc.py -c configs/lab.conf lab.jemdoc

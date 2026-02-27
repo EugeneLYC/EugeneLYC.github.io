@@ -4,11 +4,30 @@
 (* denotes equal contribution)
 
 
+== Preprint
+- *V1: Unifying Generation and Self-Verification for Parallel Reasoners*\n
+Harman Singh\*, Xiuyu Li\*, Kusha Sareen, Monishwaran Maheswaran, Sijun Tan, Xiaoxia Wu, Junxiong Wang, Alpay Ariyak, Qingyang Wu\n
+Samir Khaki, Rishabh Tiwari, Long Lian, *Yucheng Lu*, Boyi Li, Alane Suhr, Ben Athiwaratkun, Kurt Keutzer\n
+\[[Arxiv]\]
+
+- *Distilling Token-Trained Models into Byte-Level Models*\n
+Zishuo Bao, Jiaqi Leng, Junxiong Wang, Bowen Peng, *Yucheng Lu*\n
+\[[https://arxiv.org/abs/2602.01007 Arxiv]\]
+
+
+== 2026
+- *Understanding and Improving Length Generalization in Hierarchical Sparse Attention Models*\n
+Jiaqi Leng\*, Xiang Hu\*, Junxiong Wang, Jianguo Li, Wei Wu, *Yucheng Lu*\n
+/ In the Fourteenth International Conference on Learning Representations (ICLR) 2026. / \n
+\[[https://arxiv.org/abs/2510.17196 Arxiv]\]
+
+
 == 2023
 
 - *Provably Efficient Model Training over Centralized and Decentralized Datasets*\n
 *Yucheng Lu* \n
-\[[https://ecommons.cornell.edu/items/ecb07244-8512-4c97-8997-1273a077d92c PhD Thesis]\]
+/ PhD Thesis / \n
+\[[https://ecommons.cornell.edu/items/ecb07244-8512-4c97-8997-1273a077d92c PDF]\]
 
 - *Coordinating Distributed Example Orders for Provably Accelerated Training*\n
 A. Feder Cooper\*, Wentao Guo\*, Khiem Pham\*, Tiancheng Yuan, Charlie Ruan, *Yucheng Lu*, Chris De Sa\n

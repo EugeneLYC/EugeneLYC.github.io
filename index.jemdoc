@@ -1,13 +1,13 @@
 # jemdoc: menu{MENU}{index.html}
 
 == Short Bio
-I am an Assistant Professor of [https://cs.shanghai.nyu.edu/ Computer Science at NYU Shanghai] (starting Fall 2025), where I lead the [lab.html HeavyBall Research] group.
+I am an Assistant Professor of [https://cs.shanghai.nyu.edu/ Computer Science at NYU Shanghai], where I lead the [lab.html HeavyBall Research] group.
+I am also affiliated with the [https://engineering.nyu.edu/ Tandon School of Engineering] at New York University.
 
 Previously, I was a Research Engineer at [https://www.together.ai/ Together AI], contributing to the development of inference engines and GPU kernels for large language and vision-language model serving. 
-Before that, I have worked and interned at Google, Microsoft, and Amazon. 
-I earned my Ph.D. in [https://www.cs.cornell.edu/ Computer Science from Cornell University] in 2023, advised by [https://www.cs.cornell.edu/~cdesa/ Chris De Sa].
+Before that, I earned my Ph.D. in [https://www.cs.cornell.edu/ Computer Science from Cornell University], advised by [https://www.cs.cornell.edu/~cdesa/ Chris De Sa].
 
-{{<strong style="color: red;"> I am currently looking for Ph.D. students, Research Assistants, and Interns to join my group!</strong>}} If you are interested in any of the following areas, please feel free to reach out with your CV:
+{{<strong style="color: red;"> I am currently looking for Ph.D. students and Research Assistants to join my group!</strong>}} If you are interested in any of the following areas, please reach out with your CV:
 
 - Efficient training and inference algorithms for foundation models.
 - Hardware/software co-design for efficient modeling.

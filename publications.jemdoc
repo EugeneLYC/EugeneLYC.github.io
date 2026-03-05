@@ -6,9 +6,9 @@
 
 == Preprint
 - *V1: Unifying Generation and Self-Verification for Parallel Reasoners*\n
-Harman Singh\*, Xiuyu Li\*, Kusha Sareen, Monishwaran Maheswaran, Sijun Tan, Xiaoxia Wu, Junxiong Wang, Alpay Ariyak, Qingyang Wu\n
-Samir Khaki, Rishabh Tiwari, Long Lian, *Yucheng Lu*, Boyi Li, Alane Suhr, Ben Athiwaratkun, Kurt Keutzer\n
-\[[Arxiv]\]
+Harman Singh\*, Xiuyu Li\*, Kusha Sareen, Monishwaran Maheswaran, Sijun Tan, Xiaoxia Wu, Junxiong Wang, Alpay Ariyak\n 
+Qingyang Wu, Samir Khaki, Rishabh Tiwari, Long Lian, *Yucheng Lu*, Boyi Li, Alane Suhr, Ben Athiwaratkun, Kurt Keutzer\n
+\[[https://arxiv.org/abs/2603.04304 Arxiv]\]\[[https://harmandotpy.github.io/v1-verification/ Website]\]
 
 - *Distilling Token-Trained Models into Byte-Level Models*\n
 Zishuo Bao, Jiaqi Leng, Junxiong Wang, Bowen Peng, *Yucheng Lu*\n

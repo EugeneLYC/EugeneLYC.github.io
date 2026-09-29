@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}
 
 == Short Bio
-I am an Assistant Professor of [https://cs.shanghai.nyu.edu/ Computer Science at NYU Shanghai], where I lead the [lab.html HeavyBall Research] group.
+I am an Assistant Professor of [https://cs.shanghai.nyu.edu/ Computer Science at NYU Shanghai], where I lead the [https://heavyball-research.github.io/ HeavyBall Research] group.
 I am also affiliated with the [https://engineering.nyu.edu/ Tandon School of Engineering] at New York University.
 
 Previously, I was a Research Engineer at [https://www.together.ai/ Together AI], contributing to the development of inference engines and GPU kernels for large language and vision-language model serving. 
@@ -15,6 +15,8 @@ Before that, I earned my Ph.D. in [https://www.cs.cornell.edu/ Computer Science 
 - Large-scale AI application systems (e.g., Agent frameworks, RAG systems).
 
 If you are interested in working with me, [joinus.html this Q&A] might be helpful.
+
+For our group's most recent work, please see the [https://heavyball-research.github.io/ HeavyBall group website].
 
 == Honors and Awards
 

@@ -6,9 +6,13 @@
 
 == Preprint
 
-- *Multi-Token Residual Prediction*\n
-Yufeng Xu, Zishuo Bao, Qian Wang, Zeshen Zhang, Haoqi Zhang, Bowen Peng, Ang Li, Rahul Chalamala, *Yucheng Lu*\n
-\[[https://arxiv.org/abs/2605.18817 Arxiv]\]
+- *Flywheel Attention: Attention Kernels Built for the TPU*\n
+Zishuo Bao, Zeshen Zhang, *Yucheng Lu*\n
+\[[https://heavyball-research.github.io/blog/2026-09-29-attention-tpu/ Blog]\]
+
+- *What Makes Position Zero Special? A Mechanistic Study of Position Zero Attention Sinks in LLMs*\n
+Runyu Peng, Ruixiao Li, Mingshu Chen, Yunhua Zhou, Qipeng Guo, Xipeng Qiu, *Yucheng Lu*, Chen Zhao\n
+\[[https://arxiv.org/abs/2603.06591 Arxiv]\]
 
 - *Distilling Token-Trained Models into Byte-Level Models*\n
 Zishuo Bao, Jiaqi Leng, Junxiong Wang, Bowen Peng, *Yucheng Lu*\n
@@ -16,6 +20,11 @@ Zishuo Bao, Jiaqi Leng, Junxiong Wang, Bowen Peng, *Yucheng Lu*\n
 
 
 == 2026
+
+- *Multi-Token Residual Prediction*\n
+Yufeng Xu, Zishuo Bao, Qian Wang, Zeshen Zhang, Haoqi Zhang, Bowen Peng, Ang Li, Rahul Chalamala, *Yucheng Lu*\n
+/ In the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026. / \n
+\[[https://arxiv.org/abs/2605.18817 Arxiv]\]\[[https://heavyball-research.github.io/blog/2026-07-01-multi-token-residual-prediction/ Blog]\]
 
 - *V1: Unifying Generation and Self-Verification for Parallel Reasoners*\n
 Harman Singh\*, Xiuyu Li\*, Kusha Sareen, Monishwaran Maheswaran, Sijun Tan, Xiaoxia Wu, Junxiong Wang, Alpay Ariyak\n 
@@ -29,7 +38,7 @@ Jiaqi Leng\*, Xiang Hu\*, Junxiong Wang, Jianguo Li, Wei Wu, *Yucheng Lu*\n
 \[[https://arxiv.org/abs/2510.17196 Arxiv]\]
 
 
-== 2023
+== Pre-2026
 
 - *Provably Efficient Model Training over Centralized and Decentralized Datasets*\n
 *Yucheng Lu* \n
@@ -62,8 +71,6 @@ Jue Wang\*, *Yucheng Lu*\*, Binhang Yuan, Beidi Chen, Percy Liang, Chris De Sa, 
 \[[https://www.jmlr.org/papers/volume24/22-0044/22-0044.pdf JMLR]\] \n
 
 
-== 2022
-
 - *GraB: Finding Provably Better Data Permutations than Random Reshuffling*\n
 *Yucheng Lu*, Wentao Guo, Chris De Sa\n
 / In the Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022. / \n
@@ -74,8 +81,6 @@ Jue Wang\*, *Yucheng Lu*\*, Binhang Yuan, Beidi Chen, Percy Liang, Chris De Sa, 
 / In the Tenth International Conference on Learning Representations (ICLR) 2022. / {{<strong style="color: red;">Spotlight</strong>}} \n
 \[[https://openreview.net/pdf?id=7gWSJrP3opB Proceedings]\]\[[https://github.com/EugeneLYC/qmc-ordering Code]\]
 
-
-== 2021
 
 - *Hyperparameter Optimization is Deceiving Us, and How to Stop It*\n
 A. Feder Cooper, *Yucheng Lu*, Jessica Zosa Forde, Chris De Sa\n
@@ -92,8 +97,6 @@ A. Feder Cooper, *Yucheng Lu*, Jessica Zosa Forde, Chris De Sa\n
 / In the Thirty-eighth International Conference on Machine Learning (ICML) 2021. / {{<strong style="color: red;"> Outstanding Paper Award Honorable Mention</strong>}} \n
 \[[http://proceedings.mlr.press/v139/lu21a.html Proceedings]\]\[[https://arxiv.org/abs/2006.08085 Arxiv]\]\[[./files/DeTAG_errata.pdf Errata]\]\[[https://www.leiphone.com/category/academic/ttPXXZRVE2IgyJfj.html Media Coverage (Chinese)]\] \n
 
-
-== 2020
 
 - *MixML: A Unified Analysis of Weakly Consistent Parallel Learning*\n
 *Yucheng Lu*, Jack Nash, Chris De Sa\n

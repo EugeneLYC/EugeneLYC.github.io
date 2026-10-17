@@ -7,19 +7,17 @@ I am also affiliated with the [https://engineering.nyu.edu/ Tandon School of Eng
 Previously, I was a Research Engineer at [https://www.together.ai/ Together AI], contributing to the development of inference engines and GPU kernels for large language and vision-language model serving. 
 Before that, I earned my Ph.D. in [https://www.cs.cornell.edu/ Computer Science from Cornell University], advised by [https://www.cs.cornell.edu/~cdesa/ Chris De Sa].
 
-{{<strong style="color: red;"> I am currently looking for Ph.D. students and Research Assistants to join my group!</strong>}} If you are interested in any of the following areas, please reach out with your CV:
+My research interests lie broadly in efficient modeling, hardware-aware training and inference algorithms, and the systems that bring them together at scale.
 
-- Efficient training and inference algorithms for foundation models.
-- Hardware/software co-design for efficient modeling.
-- High-performance GPU kernels for modern AI workloads.
-- Large-scale AI application systems (e.g., Agent frameworks, RAG systems).
-
-If you are interested in working with me, [joinus.html this Q&A] might be helpful.
+== Research Group
+{{<strong style="color: red;"> I am currently looking for Ph.D. students and Research Assistants to join my group!</strong>}} If you are interested, please reach out with your CV.
+[joinus.html This Q&A] might also be helpful.
 
 For our group's most recent work, please see the [https://heavyball-research.github.io/ HeavyBall group website].
 
 == Honors and Awards
 
-- [index.html Google TPU Research Award], 2026
+- [index.html Amazon Research Award], 2026.
+- [index.html Google TPU Research Award], 2026.
 - [https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/ Meta Ph.D. Fellowship], class of 2022.
 - [https://icml.cc/virtual/2021/awards_detail ICML Outstanding Paper Award Honorable Mention], 2021.

@@ -6,9 +6,9 @@
 
 == Preprint
 
-- *Flywheel Attention: Attention Kernels Built for the TPU*\n
-Zishuo Bao, Zeshen Zhang, *Yucheng Lu*\n
-\[[https://heavyball-research.github.io/blog/2026-09-29-attention-tpu/ Blog]\]
+- *Flywheel: Attention Kernels Built for the TPU*\n
+Zishuo Bao, Zeshen Zhang, Linkun Chen, *Yucheng Lu*\n
+\[[https://arxiv.org/abs/2611.01426 Arxiv]\]\[[https://heavyball-research.github.io/blog/2026-09-29-attention-tpu/ Blog]\]
 
 - *What Makes Position Zero Special? A Mechanistic Study of Position Zero Attention Sinks in LLMs*\n
 Runyu Peng, Ruixiao Li, Mingshu Chen, Yunhua Zhou, Qipeng Guo, Xipeng Qiu, *Yucheng Lu*, Chen Zhao\n
